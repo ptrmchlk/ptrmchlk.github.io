@@ -1,0 +1,24 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+
+.icon-inline img {
+  transition: transform 0.2s ease;
+  vertical-align: text-bottom;
+}
+.icon-inline:hover img {
+  transform: scale(1.2);
+}
+.icon-inline {
+  display: inline-block;
+  margin-right: 6px; /* space between icons */
+}
+
+.fancycontainer {
+  display: flex;
+  flex-direction: column; /* stack children vertically */
+  justify-content: center; /* center vertically */
+  align-items: center;     /* center horizontally */
+  //height: 100vh;           /* full viewport height to center vertically on the page */
+  gap: 16px;               /* optional spacing between lines */
+}

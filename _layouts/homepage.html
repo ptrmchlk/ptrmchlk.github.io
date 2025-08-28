@@ -1,0 +1,33 @@
+---
+layout: base
+---
+
+<article class="post">
+  <div class="fancycontainer">
+
+    <div>
+      <img src="/assets/images/pic1.jpg" alt="{{ page.name }}" style="border-radius: 12px; margin: 12px;" width="275px">
+    </div>
+
+    <div>
+      <span style="font-size:22px; font-weight: 800;">{{ page.my_name }}</span>
+    </div>
+
+    <div>
+      <span style="font-size:18px; font-weight: 600;">{{ page.degree }}</span>
+    </div>
+
+    <div>
+      <span style="font-size:18px;">{{ page.more_details }}</span>
+    </div>
+
+    <div>
+      {% for icon in page.icons %}
+        <a class="icon-inline" href="{{ icon.url }}" target="_blank" rel="noopener" title="{{ icon.platform | capitalize }}">
+          <img src="{{ icon.img }}" alt="{{ icon.platform }}" width="50px" {% if icon.platform == 'github' %} style="margin: 3px;" {% endif %}>
+        </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</article>
