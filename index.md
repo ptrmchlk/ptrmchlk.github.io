@@ -1,8 +1,8 @@
 ---
 layout: homepage
 my_name: Piotr Michalak
-degree: theoretical evolutionary biologist
-more_details: working on <strong>animal signals, sexual selection, and sexual conflict</strong>
+degree: evolutionary biologist
+more_details: thinking about <strong>animal signals, sexual selection, and sexual conflict</strong>
 icons:
   - platform: contact
     url: mailto:ptr.michalak@protonmail.com

@@ -9,13 +9,13 @@ permalink: /about/
 
 Hi! My name is Piotr. 
 
-I'm an **evolutionary biologist**, working primarily using mathematical models and computer simulations. 
+I'm an **evolutionary biologist**, working mainly using mathematical models and computer simulations to understand the complexity of sexual selection and conflict. 
 
-I have recently finished a [PhD](https://hal.science/tel-05023183/) at the University of Toulouse, where, with [Jean-Baptiste Ferdy](https://crbe.cnrs.fr/annuaire/ferdy/) and [David Duneau](https://scholar.google.fr/citations?user=VhsB4z0AAAAJ&hl), we studied the **role of seminal fluid proteins in sexual conflict**. We developed the only existing, I think, biologically grounded mathematical model of how male proteins affect female physiology. In contrast with prevailing picture, we found that females using those proteins as cues actually **reduces sexual conflict**.
+I recently completed my [PhD](https://hal.science/tel-05023183/) at the University of Toulouse with [Jean-Baptiste Ferdy](https://crbe.cnrs.fr/annuaire/ferdy/) and [David Duneau](https://scholar.google.fr/citations?user=VhsB4z0AAAAJ&hl), where we studied the **role of seminal fluid proteins in sexual conflict**. Together, we developed, to my knowledge, the only biologically grounded mathematical model describing how male proteins influence female physiology. Contrary to the prevailing picture, our results suggest that when females can use those proteins as cues, **sexual conflict is reduced**.
 
-Although my PhD focused on mathematical modelling and programming, my background is in biology. I studied biology in Poland and Sweden; investigated halfbeak behaviour from tricky videos; and I run experiments using beetles and flies. I try to use modelling as a direct extension of my thinking about biological problems. If I could follow all the relationships, connections and consequences just by thinking, I probably wouldn't need to do the maths. But, as it stands, modelling is my best shot at understanding evolution. 
+Although my PhD focused on mathematical modelling and programming, my roots are in biology. I studied biology in Poland and Sweden, observed halfbeak behaviour from tricky videos, and conducted experiments with beetles and flies. Running experiments made me face the complexity of biology and that we need mathematical theory to really grapple with what's happening underneath. And so I try my best to develop a little of that theory. 
 
-Currently, I'm focused on finishing the papers from my PhD. And in spare time, I think more and more about the role of post-copulatory sexual signals. 
+Currently, I'm focused on finishing my PhD papers, and in my spare time, I increasingly think about the evolution of post-copulatory sexual signals. 
 
 **<u>Research interests</u>**
 
@@ -35,8 +35,4 @@ Currently, I'm focused on finishing the papers from my PhD. And in spare time, I
 
 - **BSc - Biology - University of Warsaw, Poland** 2018
 
-Outside science, I regularly make coffee, irregularly practice meditation, annoy myself by badly playing flutes and bagpipes, and occasionally lift weights. I also read on Middle Age witchcraft, free will, gnosticism, psychology, and other fairly random topics.
-
-
-
-
+Outside science, I regularly make coffee, irregularly practice meditation, annoy myself by badly playing flutes and bagpipes, and occasionally lift weights. I also read on Middle Age witchcraft, free will, gnosticism, psychology, and other random topics.

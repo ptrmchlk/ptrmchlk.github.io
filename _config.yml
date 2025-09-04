@@ -46,7 +46,7 @@ minima:
   nav_pages:
   - about.md
   # - research_int.md
-  - resources.md
+  - books.md
   #- impractical.md
   - contact.md
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: resources
+title: unsolicited advice
 text_title:
-permalink: /resources/
+permalink: /booksandstuff/
 ---
 [Introduction to Mathematics for Life Scientists]: https://link.springer.com/book/10.1007/978-3-642-61869-7
 [Calculus Made Easy]: https://www.gutenberg.org/ebooks/33283
@@ -13,10 +13,9 @@ permalink: /resources/
 [Art of R Programming]: https://nostarch.com/artofr.htm
 [Writing Down the Bones]: https://nataliegoldberg.com/books/writing-down-the-bones/
 [A Biologist's Guide to Mathematical Modeling in Ecology and Evolution]: https://www.zoology.ubc.ca/biomath/
-[Automate the Boring Stuff with Python]: https://automatetheboringstuff.com/
 [Modelling for Field Biologists and Other Interesting People]:https://doi.org/10.1017/CBO9780511811388
 
-<span style="font-size:20px;"> also known as ***an unsolicited list of recommendations of stuff that might or might not be useful for people trying to be scientists, especially if they like theory and evolution***. Mostly books.</span>
+<span style="font-size:20px;">***an unsolicited\* list of recommendations of stuff that might or might not be useful for people trying to be scientists, especially if they like theory and evolution***. Mostly books, because I like books.</span>
 
 #### **Modelling and theory**
 
@@ -75,3 +74,5 @@ This is another a bit old, but an interesting one. It comes just from around the
 You probably know Strunk and White's [*Elements of Style*](https://gutenberg.org/ebooks/37134) and I don't think anybody disagrees that its one of the best. It's clear, witty, and makes sure you write in a way that's clear, understandable, and mostly correct. But it will not tell you what to write. And if, like me, you stare at a blank page and don't know where to start - this is the book. It might seem not directly relevant to a scientific writing, but it is aimed at writers of all sorts. It is the book that made me enjoy writing the papers again. It is scientific *communication* after all. The book came too late to help with my thesis, but it might come early enough for yours.
 
 
+
+*but, if it has been clicked, does it make it solicited?
