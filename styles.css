@@ -1,0 +1,35 @@
+body {
+  background-color: #181825;
+  color: #eff1f5;
+  font-family: monospace; 
+  max-width:100ch;
+  margin:auto;
+  }
+  
+p {
+  font-size: 14px;
+  }
+  
+a {
+  text-decoration: none; 
+  }
+  
+a:link {
+  color: #f9e2af;
+  }
+  
+a:visited {
+  color: #94e2d5;
+}
+
+a:active {
+  color: #38ba8;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li {
+  font-size: 14px;
+}
