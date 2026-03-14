@@ -4,10 +4,16 @@ body {
   font-family: monospace; 
   max-width:100ch;
   margin:auto;
+  font-size:16px;
   }
+
+h1,h2,h3 {
+    line-height:1.2;
+    font-size:16px;
+}
   
 p {
-  font-size: 14px;
+  font-size: 16px;
   }
   
 a {
@@ -30,6 +36,3 @@ a:hover {
   text-decoration: underline;
 }
 
-li {
-  font-size: 14px;
-}
