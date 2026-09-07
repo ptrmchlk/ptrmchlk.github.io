@@ -1,0 +1,80 @@
+body {
+  background-color: #020000;
+  color: #F7FAF7;
+  font-family: "DejaVu Sans", sans-serif;
+  max-width: 80ch;
+  margin: 0 auto;
+  font-size: 16px;
+}
+
+h2 {
+  line-height: 1.2;
+  font-size: 16px;
+  text-align: center;
+}
+
+h1,
+h3 {
+  line-height: 1.2;
+  font-size: 16px;
+}
+
+p {
+  line-height: 1.75;
+}
+
+p.c1 {
+  text-align: center;
+  font-weight: 700;
+}
+
+p.c2 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+}
+
+p.c3 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+p.c4 {
+  text-align: right;
+  max-width: 50ch;
+}
+
+p.c5 {
+  font-weight: 600;
+  text-align: center;
+}
+
+p.csmall {
+  font-size: small;
+  text-align: left;
+  font-weight: 400;
+
+}
+
+a {
+  text-decoration: none;
+  color: #bdddb3;
+}
+
+
+a:active {
+  color: #F2F1C4;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #001305;
+
+}
+
+nav {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
