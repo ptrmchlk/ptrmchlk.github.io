@@ -1,20 +1,42 @@
 body {
   background-color: #020000;
   color: #F7FAF7;
-  font-family: "DejaVu Sans", sans-serif;
-  max-width: 80ch;
+  font-family: "Georgia", "Libre Baskervvile", serif, "DejaVu Sans", sans-serif;
+  max-width: 120ch;
   margin: 0 auto;
   font-size: 16px;
 }
 
-h2 {
+h1 {
   line-height: 1.2;
-  font-size: 16px;
+  font-variant-caps: small-caps;
+  font-size: 24px;
   text-align: center;
 }
 
-h1,
+h2 {
+  line-height: 1.2;
+  font-variant-caps: small-caps;
+  text-align: center;
+  font-size: 18px;
+}
+
 h3 {
+  font-variant-caps: small-caps;
+  text-align: center;
+  line-height: 1.2;
+  font-size: 18px;
+}
+
+h4 {
+  text-align: center;
+  line-height: 1.2;
+  font-size: 16px;
+}
+
+h5 {
+  font-variant-caps: small-caps;
+  text-align: left;
   line-height: 1.2;
   font-size: 16px;
 }
@@ -35,6 +57,7 @@ p.c2 {
 }
 
 p.c3 {
+  font-variant-caps: small-caps;
   text-align: center;
   font-size: 16px;
   font-weight: 600;
@@ -54,7 +77,14 @@ p.csmall {
   font-size: small;
   text-align: left;
   font-weight: 400;
+  font-style: italic;
+}
 
+div.rsmall {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 500;
+  font-style: italic;
 }
 
 a {
@@ -62,6 +92,21 @@ a {
   color: #bdddb3;
 }
 
+td {
+  font-size: small;
+  padding-bottom: 5px;
+  text-align: left;
+  font-size: 16px;
+
+}
+
+td.ndash {
+  font-size: small;
+  padding-bottom: 5px;
+  text-align: center;
+  font-size: 16px;
+
+}
 
 a:active {
   color: #F2F1C4;
@@ -77,4 +122,6 @@ nav {
   text-align: center;
   font-size: 18px;
   font-weight: 600;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.05em;
 }
