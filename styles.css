@@ -1,37 +1,37 @@
 body {
-  background-color: #020000;
-  color: #F7FAF7;
+  background-color:#c9cbca;
+  color:#111216;
   font-family: "Georgia", "Libre Baskervvile", serif, "DejaVu Sans", sans-serif;
-  max-width: 120ch;
+  max-width: 100ch;
   margin: 0 auto;
   font-size: 16px;
-}
 
+}
 h1 {
   line-height: 1.2;
   font-variant-caps: small-caps;
   font-size: 24px;
   text-align: center;
+  font-weight:500;
 }
 
-h2 {
+h2, h3 {
   line-height: 1.2;
   font-variant-caps: small-caps;
   text-align: center;
   font-size: 18px;
-}
-
-h3 {
-  font-variant-caps: small-caps;
-  text-align: center;
-  line-height: 1.2;
-  font-size: 18px;
+  font-weight:500;
 }
 
 h4 {
   text-align: center;
   line-height: 1.2;
   font-size: 16px;
+  font-weight:500;
+  font-style: italic;
+  letter-spacing: 0.05em;
+
+
 }
 
 h5 {
@@ -39,6 +39,7 @@ h5 {
   text-align: left;
   line-height: 1.2;
   font-size: 16px;
+  font-weight:500;
 }
 
 p {
@@ -47,25 +48,22 @@ p {
 
 p.c1 {
   text-align: center;
-  font-weight: 700;
 }
 
 p.c2 {
   text-align: center;
   font-size: 22px;
-  font-weight: 800;
 }
 
 p.c3 {
   font-variant-caps: small-caps;
   text-align: center;
   font-size: 16px;
-  font-weight: 600;
 }
 
 p.c4 {
   text-align: right;
-  max-width: 50ch;
+  max-width: 53ch;
 }
 
 p.c5 {
@@ -89,7 +87,22 @@ div.rsmall {
 
 a {
   text-decoration: none;
-  color: #bdddb3;
+  font-weight: 500;
+  color:#606b6a;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.nav{
+  color:#111216;
+}
+
+span.name{
+  font-style: italic;
+  letter-spacing: 0.05em;
+
 }
 
 td {
@@ -105,16 +118,6 @@ td.ndash {
   padding-bottom: 5px;
   text-align: center;
   font-size: 16px;
-
-}
-
-a:active {
-  color: #F2F1C4;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #F2F1C4;
 
 }
 
