@@ -1,7 +1,7 @@
 body {
-  background-color:#c9cbca;
-  color:#111216;
-  font-family: "Georgia", "Libre Baskervvile", serif, "DejaVu Sans", sans-serif;
+  background-color:#e3e9ee;
+  color:#18181a;
+  font-family: "Libre Baskervvile", "Georgia", serif, "DejaVu Sans", sans-serif;
   max-width: 100ch;
   margin: 0 auto;
   font-size: 16px;
@@ -66,7 +66,7 @@ div.rsmall {
 a {
   text-decoration: none;
   font-weight: 500;
-  color:#606b6a;
+  color:#384b47;
 }
 
 a:hover {
