@@ -1,0 +1,102 @@
+body {
+  background-color:#fbfbf6;
+  color:#18181a;
+  font-family: serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-right:40px;
+  position:relative;
+  font-size: 16px;
+}
+
+h1 {
+  line-height: 1.2;
+  font-variant-caps: small-caps;
+  font-size: 24px;
+  text-align: center;
+  font-weight:500;
+}
+
+h2, h3 {
+  line-height: 1.2;
+  font-variant-caps: small-caps;
+  text-align: center;
+  font-size: 18px;
+  font-weight:500;
+  font-variant-numeric: oldstyle-nums;
+}
+
+h4 {
+  text-align: center;
+  line-height: 1.2;
+  font-size: 16px;
+  font-weight:500;
+  font-style: italic;
+  letter-spacing: 0.05em;
+}
+
+h5 {
+  font-variant-caps: small-caps;
+  text-align: left;
+  line-height: 1.2;
+  font-size: 16px;
+  font-weight:500;
+}
+
+p {
+  line-height: 1.75;
+}
+
+p.c1 {
+  text-align: center;
+}
+
+p.csmall {
+  font-size: small;
+  text-align: left;
+  font-weight: 400;
+  font-style: italic;
+}
+
+div.rsmall {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 500;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 500;
+  color:#384b47;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.nav{
+  color:#111216;
+}
+
+span.name{
+  font-style: italic;
+  letter-spacing: 0.05em;
+
+}
+
+td {
+  font-size: small;
+  padding-bottom: 5px;
+  text-align: left;
+  font-size: 16px;
+
+}
+
+nav {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.05em;
+}
